@@ -16,13 +16,13 @@
 
 ------------
 ### [Meyta - Kriptoloji 2 - Kriptoanaliz - Kaba Kuvvet(Brute Force)](https://www.youtube.com/watch?v=nZwcoATMVdo "Kriptoloji 2 - Kriptoanaliz - Kaba Kuvvet(Brute Force)")
-![Meyta - Kriptoloji 2 - Sezar Şifreleme](https://github.com/serdaraltin/Caesar-Cipher/blob/master/Sezar%20Sifreleme/bin/Debug/On%20Izleme.jpg)
+![Meyta - Kriptoloji 2 - Sezar Şifreleme](https://github.com/serdaraltin/Caesar-Cipher-BruteForce/blob/master/Kaba%20Kuvvet%20-%20Sezar%20Sifreleme/bin/Debug/On%20Izleme.jpg)
 
 ------------
 
 **Tasarım - Form1.Designer.cs**
 
-![Form1](https://github.com/serdaraltin/Caesar-Cipher/blob/master/Sezar%20Sifreleme/obj/Debug/ScreenShot.PNG)
+![Form1](https://github.com/serdaraltin/Caesar-Cipher-BruteForce/blob/master/Kaba%20Kuvvet%20-%20Sezar%20Sifreleme/bin/Debug/Program.jpg)
 
 ------------
 
