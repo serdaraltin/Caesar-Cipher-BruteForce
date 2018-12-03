@@ -1,0 +1,9 @@
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\bin\Debug\Kaba Kuvvet - Sezar Sifreleme.exe.config
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\bin\Debug\Kaba Kuvvet - Sezar Sifreleme.exe
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\bin\Debug\Kaba Kuvvet - Sezar Sifreleme.pdb
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\obj\Debug\Kaba Kuvvet - Sezar Sifreleme.csprojResolveAssemblyReference.cache
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\obj\Debug\Kaba_Kuvvet___Sezar_Sifreleme.Form1.resources
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\obj\Debug\Kaba_Kuvvet___Sezar_Sifreleme.Properties.Resources.resources
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\obj\Debug\Kaba Kuvvet - Sezar Sifreleme.csproj.GenerateResource.Cache
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\obj\Debug\Kaba Kuvvet - Sezar Sifreleme.exe
+c:\users\meyta\documents\visual studio 2015\Projects\Kaba Kuvvet - Sezar Sifreleme\Kaba Kuvvet - Sezar Sifreleme\obj\Debug\Kaba Kuvvet - Sezar Sifreleme.pdb
