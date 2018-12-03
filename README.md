@@ -22,7 +22,7 @@
 
 **Tasarım - Form1.Designer.cs**
 
-![Form1](https://github.com/serdaraltin/Caesar-Cipher-BruteForce/blob/master/Kaba%20Kuvvet%20-%20Sezar%20Sifreleme/bin/Debug/Program.jpg)
+![Form1](https://github.com/serdaraltin/Caesar-Cipher-BruteForce/blob/master/Kaba%20Kuvvet%20-%20Sezar%20Sifreleme/bin/Debug/Program.PNG)
 
 ------------
 
